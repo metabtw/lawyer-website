@@ -1,4 +1,4 @@
-# HLG Hukuk Bürosu Web Sitesi
+# Hukuk Bürosu Web Sitesi
 
 Modern ve profesyonel hukuk bürosu web sitesi. Next.js, React ve Tailwind CSS kullanılarak geliştirilmiştir.
 
@@ -110,7 +110,3 @@ npm start
 ## 📞 İletişim
 
 Proje hakkında sorularınız için iletişime geçebilirsiniz.
-
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır.
